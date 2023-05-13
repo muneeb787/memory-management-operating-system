@@ -1,5 +1,3 @@
-Sure, here's a short description for the Operating System Memory Management project:
-
 # Operating System Memory Management
 
 The Operating System Memory Management project is a C++ program that enables users to manage memory in an operating system environment. The program takes input of logical/physical address size (space size) and page size and generates a complete table of logical and physical addresses, along with the page table. The program then allows the user to give instructions and address locations and program set instructions to that location.
